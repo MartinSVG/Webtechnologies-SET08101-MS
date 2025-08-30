@@ -7,7 +7,7 @@ Created as part of **SET08101 – Web Technologies Coursework (Part 2: Implement
 
 ## 🚀 Deployment
 The project is live on **GitHub Pages**:  
-👉 [https://your-username.github.io/triviaquest](https://martinsvg.github.io/Webtechnologies-SET08101-MS/)
+👉 [(https://martinsvg.github.io/Webtechnologies-SET08101-MS/](https://martinsvg.github.io/Webtechnologies-SET08101-MS/)
 
 ---
 
